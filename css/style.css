@@ -765,8 +765,8 @@
         height: auto;
     }
 
-    .gallery-container {
-        padding-top: 120px;
+    .gallery-header {
+        margin-top: 120px;
     }
 
     .art-header {
