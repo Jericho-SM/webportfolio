@@ -364,6 +364,18 @@
     line-height: 1.5;
 }
 
+.spotify-wrapper{
+    width:75%;
+    margin:auto;
+    border-radius:12px;
+    overflow:hidden;
+}
+
+.spotify-wrapper iframe{
+    display:block;
+    border:none;
+}
+
 .gallery-container {
     width: clamp(300px, 90%, 1200px);
     display: flex;
